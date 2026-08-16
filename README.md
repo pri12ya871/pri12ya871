@@ -75,13 +75,10 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-## 📊 GitHub stats
+## 🌱 Open source
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pri12ya871&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pri12ya871&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
-</p>
+I send patches to the tools I build on:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pri12ya871&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-</p>
+- **[typeorm/typeorm](https://github.com/typeorm/typeorm/pulls?q=is%3Apr+author%3Apri12ya871)** — `perf: use performance.now() for query execution timing`. `QueryRunner.query()` measured elapsed time with `Date.now()`, a wall-clock source that an NTP correction can move mid-query.
+- **[brianc/node-postgres](https://github.com/brianc/node-postgres/pulls?q=is%3Apr+author%3Apri12ya871)** — the PostgreSQL client for Node.js.
+- **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise/pulls?q=is%3Apr+author%3Apri12ya871)** — visual builder for LLM applications.
