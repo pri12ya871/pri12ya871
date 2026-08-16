@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Priya 👋</h1>
 
 <p align="center">
-  Backend &amp; AI engineer — I build the primitives instead of importing them.
+  SDE — full-stack, and I build the primitives instead of importing them.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 🚀 About me
 
-- 🛠️ Backend in **Node.js / Express**, AI work in **Python**
+- 🛠️ **React** on the front, **Node.js / Express** and **Python** behind it, **C++** when it needs to be fast
 - 🧩 Most of my projects run on **zero or one runtime dependency** — I'd rather understand the layer underneath than import it
 - 🤖 Currently building **LLM infrastructure**: semantic caching, agent loops, RAG with page-level citations
 - 🧠 Things I've written from scratch: **Raft consensus**, the **WebSocket protocol**, a **chess engine**, a **ReAct agent loop**
