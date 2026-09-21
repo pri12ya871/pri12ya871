@@ -37,6 +37,7 @@
 | **[doc-intelligence](https://github.com/pri12ya871/doc-intelligence)** | Ask your PDFs a question, get answers cited to the exact page. Express + pgvector + BullMQ. |
 | **[chat-api](https://github.com/pri12ya871/chat-api)** | Real-time chat with rooms, presence and history over a WebSocket implementation written from scratch. |
 | **[auth-service](https://github.com/pri12ya871/auth-service)** | JWT auth with refresh-token rotation, reuse detection, scrypt passwords and RBAC. |
+| **[ICON Store](https://github.com/pri12ya871/Ecommerce-website)** · [live](https://icon-store-shop.vercel.app) | Full-stack e-commerce store — React + Redux storefront, Express API, seller and admin portals — deployed as one Vercel project. |
 | **[inbox-agent](https://github.com/pri12ya871/inbox-agent)** | Mail → action items → tracker. Hand-written tool-use loop with idempotent writes and a resumable journal. |
 
 ## 💻 Tech stack
