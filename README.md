@@ -32,12 +32,12 @@
 | --- | --- |
 | **[raft-kv](https://github.com/pri12ya871/raft-kv)** | Distributed key-value store on a from-scratch Raft implementation — leader election, log replication, crash recovery, linearizable reads. Zero dependencies. |
 | **[llm-gateway](https://github.com/pri12ya871/llm-gateway)** | LLM proxy with semantic caching, circuit breaking, load shedding and per-tenant cost control. Runs with no API keys. |
+| **[ICON Store](https://github.com/pri12ya871/Ecommerce-website)** · [live](https://icon-store-shop.vercel.app) | Full-stack e-commerce store — React + Redux storefront, Express API, seller and admin portals — deployed as one Vercel project. |
 | **[url-shortener](https://github.com/pri12ya871/url-shortener)** | Base62 codes with collision handling, Redis cache-aside redirects, and a Lua-backed sliding-window rate limiter. |
 | **[chess](https://github.com/pri12ya871/chess)** | C++20 0x88 engine verified with perft, an alpha-beta opponent, and network play. No dependencies. |
 | **[doc-intelligence](https://github.com/pri12ya871/doc-intelligence)** | Ask your PDFs a question, get answers cited to the exact page. Express + pgvector + BullMQ. |
 | **[chat-api](https://github.com/pri12ya871/chat-api)** | Real-time chat with rooms, presence and history over a WebSocket implementation written from scratch. |
 | **[auth-service](https://github.com/pri12ya871/auth-service)** | JWT auth with refresh-token rotation, reuse detection, scrypt passwords and RBAC. |
-| **[ICON Store](https://github.com/pri12ya871/Ecommerce-website)** · [live](https://icon-store-shop.vercel.app) | Full-stack e-commerce store — React + Redux storefront, Express API, seller and admin portals — deployed as one Vercel project. |
 | **[inbox-agent](https://github.com/pri12ya871/inbox-agent)** | Mail → action items → tracker. Hand-written tool-use loop with idempotent writes and a resumable journal. |
 
 ## 💻 Tech stack
